@@ -1,0 +1,43 @@
+{
+    "work": [{
+            "date": "april 2022 - Present",
+            "title": "Software Developer",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, itaque, debitis veritatis architecto a eveniet dignissimos officia incidunt corporis voluptate provident",
+            "stack": [
+                "Angular",
+                "Django",
+                "npm",
+                "Git",
+                "Bitbucket",
+                "GitHub",
+                "Java",
+                "JavaScript",
+                "TypeScript",
+                "Html css "
+            ]
+        },
+        {
+            "date": "September 2021 - September 2021",
+            "title": "Technical Intern",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, itaque, debitis veritatis architecto a eveniet dignissimos officia incidunt corporis voluptate provident",
+            "stack": [
+                "Python",
+                "Django",
+                "Angular"
+            ]
+        },
+        {
+            "date": "January 2022 - present",
+            "title": "Freelance Software Developer",
+            "description": "I take on freelance contracts to build awesome looking web and mobile apps for clients in India",
+            "stack": [
+                "Angular",
+                "PHP",
+                "Python",
+                "Postman",
+                "Linux"
+            ]
+        }
+
+    ]
+}

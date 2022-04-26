@@ -1,0 +1,42 @@
+{
+    "work": [{
+            "date": "September 2018 - Present",
+            "title": "Software Developer",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, itaque, debitis veritatis architecto a eveniet dignissimos officia incidunt corporis voluptate provident",
+            "stack": [
+                "Angular",
+                "Node.js",
+                "npm",
+                "Git",
+                "Bitbucket",
+                "GitHub",
+                "Java",
+                "JavaScript",
+                "TypeScript"
+            ]
+        },
+        {
+            "date": "September 2017 - September 2018",
+            "title": "Technical Intern",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, itaque, debitis veritatis architecto a eveniet dignissimos officia incidunt corporis voluptate provident",
+            "stack": [
+                "Python",
+                "Linux",
+                "Angular"
+            ]
+        },
+        {
+            "date": "January 2017 - present",
+            "title": "Freelance Software Developer",
+            "description": "I take on freelance contracts to build awesome looking web and mobile apps for clients in India",
+            "stack": [
+                "Angular",
+                "PHP",
+                "Python",
+                "Postman",
+                "Linux"
+            ]
+        }
+
+    ]
+}

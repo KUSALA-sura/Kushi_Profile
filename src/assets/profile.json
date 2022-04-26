@@ -1,0 +1,28 @@
+{
+    "email": "kushalasura0438@gmail.com",
+    "location": "Andhra Pradesh, India",
+    "name": "SURA KUSALA",
+    "phone": "7702089732",
+    "avatar": "assets/media/images/pic.jpg",
+    "education": [{
+        "title": "Bachelor of Technology (BTech) in Computer Science and Engineering",
+        "meta": "Madanapalle Institute of  Science Technology,  June 2019 – July 2022"
+    }],
+    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, itaque, debitis veritatis architecto a eveniet dignissimos officia incidunt corporis voluptate provident illum modi esse? Illo, ex ipsam consequuntur hic debitis aliquam. Totam facilis nisi mollitia facere quis ratione inventore voluptatem, natus suscipit possimus, quaerat illo eos sit odio deserunt beatae!",
+    "socials": [{
+            "name": "kushalasura0438@gmail.com",
+            "link": "kushalasura0438@gmail.com",
+            "icon": "fa fa-envelope"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/KUSALA-sura",
+            "icon": "fab fa-github"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/kushala-sura-38b3a71a4",
+            "icon": "fab fa-linkedin"
+        }
+    ]
+}

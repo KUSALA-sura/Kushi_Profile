@@ -1,0 +1,28 @@
+{
+    "email": "mushasri@teksystems.com",
+    "location": "Andhra Pradesh, India",
+    "name": "Ushasri Mavuri",
+    "phone": "",
+    "avatar": "assets/media/images/pic.jpg",
+    "education": [{
+        "title": "Bachelor of Technology (BTech) in Computer Science and Engineering",
+        "meta": "Vasireddy Venkatadri Institute of Technology,  June 2017 – July 2021"
+    }],
+    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, itaque, debitis veritatis architecto a eveniet dignissimos officia incidunt corporis voluptate provident illum modi esse? Illo, ex ipsam consequuntur hic debitis aliquam. Totam facilis nisi mollitia facere quis ratione inventore voluptatem, natus suscipit possimus, quaerat illo eos sit odio deserunt beatae!",
+    "socials": [{
+            "name": "mushasri@teksystems.com",
+            "link": "mailto:mushasri@teksystems.com",
+            "icon": "fa fa-envelope"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/UshasriMavuri1999",
+            "icon": "fab fa-github"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/ushasri-mavuri-a86353153/",
+            "icon": "fab fa-linkedin"
+        }
+    ]
+}
